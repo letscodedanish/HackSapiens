@@ -15,12 +15,6 @@ SEHAT leverages machine learning models deployed on kiosk machines, addressing h
 ### Links
 - **Figma File**: [Click Here](https://www.figma.com/file/Ry4jT59WUElBQAZIByWB5S/SEHAT-(SIH)?type=design&node-id=0%3A1&mode=design&t=iHS28N94SQiAg1re-1)
 
-## Browser Support
-- **Firefox**:	version 4 and up
-- **Chrome**:	any version
-- **Safari**:	version 5.2 and up
-- **Internet Explorer/Edge**:	version 8 and up
-- **Opera**:	version 9 and up
 
 ## Technology Stack used:
 
@@ -137,11 +131,3 @@ $ git push
 
 
 
-> Made By Team with ❤️
-
-
-<br><br>
-
-<!-- [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/DSC-JSS-NOIDA/Foss-events2.0)
-[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://github.com/DSC-JSS-NOIDA/Foss-events2.0) -->
-                                                   
