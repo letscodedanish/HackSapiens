@@ -145,21 +145,3 @@ $ git push
 <!-- [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/DSC-JSS-NOIDA/Foss-events2.0)
 [![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://github.com/DSC-JSS-NOIDA/Foss-events2.0) -->
                                                    
-
-
-## Connect with us  
-<div align="center">
- <!-- <a href="https://dscjss.in/"><img src="https://user-images.githubusercontent.com/42115530/94302134-5c28c680-ff89-11ea-9ca4-5dcdd4279786.png"  height=100px /></a> <br><br>  -->
-<a href="https://www.linkedin.com/in/vaani-pathariya/" target="_blank">
-<img src=https://img.shields.io/badge/vaanipathariya-%2324292e.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/ivanshikajain/" target="_blank">
-<img src=https://img.shields.io/badge/Vanshikajain-%2300acee.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/devanshi-bahuguna-438382174/" target="_blank">
-<img src=https://img.shields.io/badge/devanshibahuguna-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/anubhavpal/" target="_blank">
-<img src=https://img.shields.io/badge/anubhavpal-%232E87FB.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-</div> 
