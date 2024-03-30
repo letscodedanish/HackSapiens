@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b4a2cf8c.css",
+    "main.js": "/static/js/main.46836eeb.js",
+    "static/media/High Five transition for the latest project.gif": "/static/media/High Five transition for the latest project.f89b242655e95b23f1ba.gif",
+    "static/media/Intercom Live Chat.gif": "/static/media/Intercom Live Chat.d41ad935d647752162f1.gif",
+    "static/media/Deep Breathing Animation.gif": "/static/media/Deep Breathing Animation.6e9f3f896549f764507f.gif",
+    "static/media/Tooploox website jobs illustration.gif": "/static/media/Tooploox website jobs illustration.2feb5d22feab2bf927f7.gif",
+    "static/media/Inner Peace Meditation GIF.gif": "/static/media/Inner Peace Meditation GIF.7662c44175596d17cc50.gif",
+    "static/media/Searching.gif": "/static/media/Searching.83338c99fb28c84f4bf0.gif",
+    "static/media/This Moment Is Your Life — Libby VanderPloeg.gif": "/static/media/This Moment Is Your Life — Libby VanderPloeg.56a7ad38c64535956db3.gif",
+    "static/media/graph.jpeg": "/static/media/graph.5f7dd0c36c41a41f2814.jpeg",
+    "static/media/funding data.png": "/static/media/funding data.1e9f66af932d8abeb2d9.png",
+    "static/media/google-data.jpeg": "/static/media/google-data.60b02da59b5801891cf2.jpeg",
+    "static/media/back-left-4.jpeg": "/static/media/back-left-4.fe5b8ade736976881e48.jpeg",
+    "static/media/WhatsApp Image 2023-09-17 at 3.12.02 PM.jpeg": "/static/media/WhatsApp Image 2023-09-17 at 3.12.02 PM.41163d5f7de21e403dd0.jpeg",
+    "static/media/back-left2.jpg": "/static/media/back-left2.f94827c40a3bd8cb46d9.jpg",
+    "index.html": "/index.html",
+    "main.b4a2cf8c.css.map": "/static/css/main.b4a2cf8c.css.map",
+    "main.46836eeb.js.map": "/static/js/main.46836eeb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4a2cf8c.css",
+    "static/js/main.46836eeb.js"
+  ]
+}
