@@ -49,7 +49,7 @@ const Navbar = (props) => {
                 </Link>
             }
             { !isLoggedIn &&
-                <Link to="https://docmedsync.vercel.app/" target="_blank">
+                <Link to="https://hackitsapiens.netlify.app" target="_blank">
                     <button  className='bg-richblack-800 text-white text-bold py-[10px] 
                     px-[18px] rounded-[8px] border border-richblack-700'>
                         Web3 File Sharing
